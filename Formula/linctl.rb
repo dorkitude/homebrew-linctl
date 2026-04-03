@@ -1,8 +1,8 @@
 class Linctl < Formula
   desc "Comprehensive command-line interface for Linear's API"
   homepage "https://github.com/dorkitude/linctl"
-  url "https://github.com/dorkitude/linctl/archive/refs/tags/v0.1.7.tar.gz"
-  sha256 "ce67b1f4ce418b53f87ecf080ccdaf30a60a87eb19991415967bf59f98ff92f1"
+  url "https://github.com/dorkitude/linctl/archive/refs/tags/v0.1.8.tar.gz"
+  sha256 "a54c291582acdf1a3b17d1dfe35c7e99998653952aeaa28bfcf3d22ff6d56345"
   license "MIT"
   head "https://github.com/dorkitude/linctl.git", branch: "master"
 
